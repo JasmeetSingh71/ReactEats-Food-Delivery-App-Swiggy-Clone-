@@ -6,7 +6,7 @@
 export default function Header()
 {
 return (
-    
+    <>
     <header className="bg-[#ff5200] font-serif">
         <div className="flex  justify-between max-w-screen-xl mx-auto py-8 ">   
            <img src="https://res.cloudinary.com/dutdah0l9/image/upload/v1720058694/Swiggy_logo_bml6he.png" className="w-40 h-12"></img>
@@ -47,5 +47,6 @@ return (
                 </a>
         </div>
     </header>
+    </>
 )
 }
