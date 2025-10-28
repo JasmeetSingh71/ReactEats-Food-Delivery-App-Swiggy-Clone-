@@ -1,47 +1,65 @@
-# 🍽️ Swiggy Clone – Food Delivery Frontend Project
+🍴 ReactEats – Swiggy Clone Food Delivery App
 
-This is a real-world **Swiggy Clone Frontend Project** built using **ReactJS**. The project simulates a food ordering application by fetching live data from Swiggy's public API. It includes features like restaurant listings, menu browsing, and cart functionality. This is a fully responsive, dynamic UI reflecting the modern standards of food delivery platforms.
+A frontend food delivery web app inspired by Swiggy, built using ReactJS and Tailwind CSS.
+It fetches live restaurant and menu data from Swiggy’s public API and provides a seamless, dynamic user experience with features like browsing restaurants, adding items to the cart, and checkout — all built with a modern React architecture.
 
----
+🚀 Features
 
-## 🚀 Features
+⚛️ ReactJS + JavaScript (ES6+) for dynamic and modular frontend
 
-- ⚛️ Built with **ReactJS** and **JavaScript**
-- 🔄 Utilizes **React Router** for navigation
-- 🛒 Implements a **Redux-based cart system**
-- 🌐 Fetches **live data** using Swiggy APIs
-- 🧾 Clean and modular code structure
-- 🎨 Responsive design with CSS/TailwindCSS
-- 📦 Dynamic components for:
-  - Restaurant listings
-  - Menu display per restaurant
-  - Item cards with prices and descriptions
-  - Add/remove items from cart
-  - Checkout page
+🔄 React Router for smooth page navigation
 
----
+🛒 Redux-based cart system for state management
 
-## 🔧 Tech Stack
+🌐 Live data fetching from Swiggy’s public API
 
-| Technology | Purpose |
-|------------|---------|
-| ReactJS    | Frontend library |
-| JavaScript | Logic and interactivity |
-| Redux      | State management |
-| React Router | Page routing |
-| Tailwind CSS / CSS | Styling and layout |
-| Swiggy API | Data source for restaurants & menus |
+📱 Fully responsive UI designed with Tailwind CSS
 
----
+📦 Dynamic and reusable components for:
 
+Restaurant listings
 
+Menu display per restaurant
 
-## 🛠️ Installation & Setup
+Item cards (with names, descriptions, and prices)
 
-Clone this repository and install the dependencies:
+Add/remove from cart
 
-```bash
-git clone https://github.com/your-username/swiggy-clone-frontend.git
-cd swiggy-clone-frontend
+Checkout functionality
+
+🧠 Key Highlights
+
+Built with a clean and scalable component architecture
+
+Simulates a real-world food delivery experience
+
+Modern design and optimized rendering for fast performance
+
+Demonstrates mastery in React, Redux, and API integration
+
+🧰 Tech Stack
+Technology	Purpose
+ReactJS	Core frontend library
+Redux	Cart & state management
+React Router	Client-side navigation
+Tailwind CSS	Styling and responsive design
+JavaScript (ES6+)	Application logic
+Swiggy Public API	Live data source for restaurants and menus
+⚙️ Installation & Setup
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/jasmeet-dev/ReactEats.git
+cd ReactEats
 npm install
 npm start
+
+
+The app will run locally on http://localhost:3000.
+
+
+
+🧑‍💻 Author
+
+Jasmeet Singh
+📍 National Institute of Technology, Srinagar
