@@ -37,22 +37,29 @@ Modern design and optimized rendering for fast performance
 
 Demonstrates mastery in React, Redux, and API integration
 
-🧰 Tech Stack
-Technology	Purpose
-ReactJS	Core frontend library
-Redux	Cart & state management
-React Router	Client-side navigation
-Tailwind CSS	Styling and responsive design
-JavaScript (ES6+)	Application logic
-Swiggy Public API	Live data source for restaurants and menus
-⚙️ Installation & Setup
+## 🧰 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **ReactJS** | Core frontend library |
+| **Redux** | Cart & state management |
+| **React Router** | Client-side navigation |
+| **Tailwind CSS** | Styling and responsive design |
+| **JavaScript (ES6+)** | Application logic |
+| **Swiggy Public API** | Live data source for restaurants and menus |
+
+---
+
+## ⚙️ Installation & Setup
 
 Clone the repository and install dependencies:
 
+```bash
 git clone https://github.com/jasmeet-dev/ReactEats.git
 cd ReactEats
 npm install
 npm start
+
 
 
 The app will run locally on http://localhost:3000.
